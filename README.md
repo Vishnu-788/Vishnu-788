@@ -1,4 +1,5 @@
 Hello, I'm Vishnu Prasad — an aspiring Data Scientist and Full-Stack Developer -Python (Django), React, and PostgreSQL (also MERN).
+
 About my educational background, I completed my Bachelor's degree in Computer Science in 2025 in there, I made my fundamentals stronger and worked on many projects. I maintained a 7.8 CGPA throughout the whole course. 
 
 And what got me hooked up with CS — I realized that programming or computer science was my thing when I was in my 12th grade, When I wanted some tasks to be done or automate something, I would just write some code in a few files and execute it on the system, and the computer would do it for me. That's when I decided that I wanted to be a Software Engineer, and this was the time when I was broken because I couldn't be a footballer. I was actively thinking about what I wanted to become. I took Computer Science as my stream in 12th on a whim. Well, it turned out to be a good decision.
