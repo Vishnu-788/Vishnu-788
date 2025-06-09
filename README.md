@@ -1,13 +1,54 @@
-Hello, I'm Vishnu Prasad — an aspiring Data Scientist and Full-Stack Developer -Python (Django), React, and PostgreSQL (also MERN).
+# Vishnu Prasad J S
 
-About my educational background, I completed my Bachelor's degree in Computer Science in 2025 in there, I made my fundamentals stronger and worked on many projects. I maintained a 7.8 CGPA throughout the whole course. 
+Python Full Stack Developer
+Trivandrum | Kerala | India
 
-And what got me hooked up with CS — I realized that programming or computer science was my thing when I was in my 12th grade, When I wanted some tasks to be done or automate something, I would just write some code in a few files and execute it on the system, and the computer would do it for me. That's when I decided that I wanted to be a Software Engineer, and this was the time when I was broken because I couldn't be a footballer. I was actively thinking about what I wanted to become. I took Computer Science as my stream in 12th on a whim. Well, it turned out to be a good decision.
+**Skills:**
 
-About my hobbies — I play games and spend a lot of time on different ones. I also read books sometimes, though I’ve only completed two series — both from the same franchise, which also happens to be my favorite.
-About my technical knowledge — I am really good with Python, Javascript, Postgresql. I use Django with Restframework in backend, and for building APIs. For the frontend, I mostly use ReactJS, and some css frameworks.To increase my expertise with Python and web development, i am trying to learn about FastAPI, microservices, asynchronous programming. 
+- Python
+- Django & Django REST Framework
+- JWT Stateless Authentication
+- Git & GitHub
+- CI/CD Pipelines
+- React (Functional Components, Redux Toolkit)
+- Postman
+- SQL & PostgreSQL
 
-About my future — I want to ba a AI/ML Engineer to be specific i want to be in a research kind of role, I want to improve the current AI, to make it better, to make it think for itself or something
-like a human.
+---
 
-and well thats all about me in consice manner.
+## Additional Skills
+
+- MERN Stack (MongoDB, Express, React, Node.js)
+
+---
+
+## Educational Profile
+
+- **B.Sc. in Computer Science**  
+  August 2022 – May 2025  
+  CGPA: 7.8 / 10
+
+---
+
+## Languages
+
+- English (Fluent)
+- Malayalam (Native)
+
+---
+
+## About Myself
+
+Well… nothing too fancy, but here’s my story:
+
+My journey into computer science started in 12th grade. The first time I got introduced to programming, it wasn’t the theory that hooked me—it was the lab sessions. Writing code, running it, and actually seeing the system do what I told it to? That was magic to me.
+
+At that time, I was also thinking hard about my future. I dreamed of unbelievable things—exploring space, pushing boundaries, and just thinking things that seemed impossible. Before that, I was really into football and thought I might go pro, but by 12th grade reality hit, and I was clueless about my path.
+
+## Interestingly, I took computer science somewhat on a whim because my sister did CS in her 12th grade, and my cousin was also studying it. But once I started, I got hooked and decided to pursue a Bachelor’s in CS. During my degree, I explored various domains in the IT industry and learned about the different teams within a tech company. With so many options, it was exciting but also a bit confusing. Then came the rise of AI, and the hype around it really caught my attention. While I initially focused on web development, I found myself increasingly drawn toward Artificial Intelligence. In the foreseeable future, I plan to pursue a Master’s in AI and ML, but for now, I’m building a strong foundation by working toward becoming a well-rounded Full Stack Developer.
+
+## Contact
+
+[LinkedIn](www.linkedin.com/in/vishnu-prasad-885868284)
+
+---
