@@ -1,6 +1,6 @@
 # Vishnu Prasad J S
 
-Python Full Stack Developer
+**Python Full Stack Developer**
 
 ---
 
