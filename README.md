@@ -5,7 +5,7 @@ _Trivandrum | Kerala | India_
 
 ---
 
-## 🛠️ Skills
+## Skills
 
 **Backend:**
 
@@ -36,13 +36,13 @@ _Trivandrum | Kerala | India_
 
 ---
 
-## 📚 Additional Skills
+## Additional Skills
 
 - MERN Stack (MongoDB, Express, React, Node.js)
 
 ---
 
-## 🎓 Educational Profile
+## Educational Profile
 
 **B.Sc. in Computer Science**  
 _August 2022 – May 2025_  
@@ -50,14 +50,14 @@ _August 2022 – May 2025_
 
 ---
 
-## 🌐 Languages
+## Languages
 
 - English (Fluent)
 - Malayalam (Native)
 
 ---
 
-## 🧑‍💻 About Myself
+## About Myself
 
 Well… nothing too fancy, but here’s my story:
 
@@ -69,6 +69,6 @@ Interestingly, I took computer science somewhat on a whim because my sister did 
 
 ---
 
-## 📬 Contact
+## Contact
 
 [LinkedIn →](https://www.linkedin.com/in/vishnu-prasad-885868284)
