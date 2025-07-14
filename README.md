@@ -1,46 +1,63 @@
 # Vishnu Prasad J S
 
-**Python Full Stack Developer**
+**Python Full Stack Developer**  
+_Trivandrum | Kerala | India_
 
 ---
 
-Trivandrum | Kerala | India
+## 🛠️ Skills
 
-**Skills:**
+**Backend:**
 
 - Python
 - Django & Django REST Framework
 - JWT Stateless Authentication
-- Git & GitHub
-- CI/CD Pipelines
+- Node.js & Express.js
+
+**Frontend:**
+
 - React (Functional Components, Redux Toolkit)
+
+**Databases:**
+
+- PostgreSQL
+- MongoDB (Mongoose ODM)
+
+**Dev Tools & Workflow:**
+
+- Git & GitHub
 - Postman
-- SQL & PostgreSQL
+- CI/CD Pipelines
+
+**Web Dev Stacks:**
+
+- MERN (MongoDB, Express.js, React, Node.js)
+- Django Stack
 
 ---
 
-## Additional Skills
+## 📚 Additional Skills
 
 - MERN Stack (MongoDB, Express, React, Node.js)
 
 ---
 
-## Educational Profile
+## 🎓 Educational Profile
 
-- **B.Sc. in Computer Science**  
-  August 2022 – May 2025  
-  CGPA: 7.8 / 10
+**B.Sc. in Computer Science**  
+_August 2022 – May 2025_  
+**CGPA:** 7.8 / 10
 
 ---
 
-## Languages
+## 🌐 Languages
 
 - English (Fluent)
 - Malayalam (Native)
 
 ---
 
-## About Myself
+## 🧑‍💻 About Myself
 
 Well… nothing too fancy, but here’s my story:
 
@@ -52,8 +69,6 @@ Interestingly, I took computer science somewhat on a whim because my sister did 
 
 ---
 
-## Contact
+## 📬 Contact
 
-[LinkedIn](www.linkedin.com/in/vishnu-prasad-885868284)
-
----
+[LinkedIn →](https://www.linkedin.com/in/vishnu-prasad-885868284)
