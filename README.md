@@ -1,6 +1,6 @@
 # Vishnu Prasad J S
 
-**Python Full Stack Developer**  
+**Aspiring Developer**  
 _Trivandrum | Kerala | India_
 
 ---
