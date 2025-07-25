@@ -1,74 +1,49 @@
-# Vishnu Prasad J S
+# Hi, I’m Vishnu Prasad
 
-**Aspiring Developer**  
-_Trivandrum | Kerala | India_
+## About Me
 
----
+I chose Computer Science because of the constant challenges and endless opportunities to grow. I’ve always been fascinated by backend development—there’s so much to explore, and every project brings new challenges to solve.
 
-## Skills
+I’m a passionate Full-Stack Developer with a strong focus on JavaScript (MERN, TypeScript) and Python (Django, FastAPI). I enjoy building scalable web applications, designing RESTful APIs, and creating projects that combine frontend elegance with backend robustness.
 
-**Backend:**
-
-- Python
-- Django & Django REST Framework
-- JWT Stateless Authentication
-- Node.js & Express.js
-
-**Frontend:**
-
-- React (Functional Components, Redux Toolkit)
-
-**Databases:**
-
-- PostgreSQL
-- MongoDB (Mongoose ODM)
-
-**Dev Tools & Workflow:**
-
-- Git & GitHub
-- Postman
-- CI/CD Pipelines
-
-**Web Dev Stacks:**
-
-- MERN (MongoDB, Express.js, React, Node.js)
-- Django Stack
+Aside from tech, I’m a football enthusiast who enjoys playing on the field, a gamer during downtime, and an occasional reader.
 
 ---
 
-## Additional Skills
+## Technical Skills
 
-- MERN Stack (MongoDB, Express, React, Node.js)
+### Frontend
 
----
+- React.js, Next.js, TypeScript
+- State Management: Redux Toolkit, Context API
+- Styling: TailwindCSS, Material UI
 
-## Educational Profile
+### Backend
 
-**B.Sc. in Computer Science**  
-_August 2022 – May 2025_  
-**CGPA:** 7.8 / 10
+- Node.js, Express.js (MERN)
+- Python: Django, Django REST Framework, FastAPI
 
----
+### Databases
 
-## Languages
+- MongoDB, PostgreSQL, MySQL
 
-- English (Fluent)
-- Malayalam (Native)
+### APIs & Tools
 
----
-
-## About Myself
-
-Well… nothing too fancy, but here’s my story:
-
-My journey into computer science started in 12th grade. The first time I got introduced to programming, it wasn’t the theory that hooked me—it was the lab sessions. Writing code, running it, and actually seeing the system do what I told it to? That was magic to me.
-
-At that time, I was also thinking hard about my future. I dreamed of unbelievable things—exploring space, pushing boundaries, and just thinking things that seemed impossible. Before that, I was really into football and thought I might go pro, but by 12th grade reality hit, and I was clueless about my path.
-
-Interestingly, I took computer science somewhat on a whim because my sister did CS in her 12th grade, and my cousin was also studying it. But once I started, I got hooked and decided to pursue a Bachelor’s in CS. During my degree, I explored various domains in the IT industry and learned about the different teams within a tech company. With so many options, it was exciting but also a bit confusing. Then came the rise of AI, and the hype around it really caught my attention. While I initially focused on web development, I found myself increasingly drawn toward Artificial Intelligence. In the foreseeable future, I plan to pursue a Master’s in AI and ML, but for now, I’m building a strong foundation by working toward becoming a well-rounded Full Stack Developer.
+- REST API development
+- Postman, Git, GitHub
+- Authentication: JWT, OAuth2
 
 ---
 
-## Contact
+## What I’m Working On
 
-[LinkedIn →](https://www.linkedin.com/in/vishnu-prasad-885868284)
+- Building full-stack applications using React + Django/Node
+- Experimenting with FastAPI for high-performance APIs
+- Exploring TypeScript for better scalability
+
+---
+
+## Connect with Me
+
+- LinkedIn: [linkedin.com/in/vishnu-prasad-885868284](https://linkedin.com/in/vishnu-prasad-885868284)
+- Email: prasadvishnu788@gmail.com
